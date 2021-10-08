@@ -1,6 +1,6 @@
 # SE 02 Git Demo Project
 ## Isaac Klein
 
-Adding some more content for Feature A. 
+Here is the readme
 
-CSS file added
+Crazy-alt
